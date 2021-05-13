@@ -25,3 +25,10 @@ Hello guys this is basically the starting of the **"How to make your profile goo
 For the overview, create a new repository with your username itself. This is a special Repository. Its README.md will appear on your public profile! 
 
 We will be discussing the further steps later.
+
+![GitHub forks](https://img.shields.io/github/forks/Techno-Philes/Getting-Started?logo=Forks&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Techno-Philes/Getting-Started?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Techno-Philes/Getting-Started?logo=Watchers&?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Techno-Philes/Getting-Started?style=plastic&logo=appveyor)
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Technophiles&repo=Getting-Started-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=social)
+
